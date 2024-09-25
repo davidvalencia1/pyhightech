@@ -1,8 +1,9 @@
 ---------------------------------------------------------------------------------------------------
 Version: 2.0.19
-Date: in 5 hours
+Date: 2024-9-25
   Changes:
     - fixed some recipes outputting more steam than input water when using productivity modules
+    - Added Zinc acetate and rayon to allowed prod mod list
 ---------------------------------------------------------------------------------------------------
 Version: 2.0.18
 Date: 2024-6-19

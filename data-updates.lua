@@ -152,6 +152,7 @@ local recipes_list =
     "raw-fiber2",
     "raw-fiber3",
     "raw-fiber4",
+    "rayon",
     "re-magnet",
     "ree-concentrate1",
     "ree-concentrate2",
@@ -192,6 +193,7 @@ local recipes_list =
     "var-josephson-junction",
     "waste-water-urea",
     "yag-laser-module",
+    "zinc-acetate",
     "zinc-nanocompound",
     "zipir-carcass",
 }
